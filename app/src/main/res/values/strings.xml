@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multi Notes</string>
+    <string name="info">info</string>
+    <string name="add">add</string>
+    <string name="save">save</string>
+    <string name="file_name">Node.json</string>
+</resources>
